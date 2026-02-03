@@ -10,7 +10,10 @@
       "Bash(npm run build:*)",
       "Bash(git init)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(git config:*)",
+      "Bash(gh auth status:*)",
+      "Bash(git credential-osxkeychain:*)"
     ]
   }
 }
